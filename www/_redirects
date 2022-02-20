@@ -1,0 +1,4 @@
+# https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+#
+/                           https://chateaumaxmin.info/
+/wedding/engagement-photos/ https://chateaumaxmin.info/engagement.html
